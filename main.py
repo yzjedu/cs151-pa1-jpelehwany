@@ -5,7 +5,7 @@
 # This project is a text-based game. The player will make choices depending on the situation, and will earn an amount of points not displayed to them. This will also change depending on their confidence level. The player will receive text feedback and will learn if they win or not in the end.
 
 score = 10 # initial amount
-req_score = 20
+req_score = 23
 confidence_multiplier = 1.0  # initial placeholder amount
 
 # Asks the user for their name. Asks for re-input if the input is not composed of letters
